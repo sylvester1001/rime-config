@@ -1,0 +1,2 @@
+# rime-config
+ rime config
