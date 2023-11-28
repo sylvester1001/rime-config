@@ -1,0 +1,10 @@
+var:
+  last_build_time: 1701185851
+  option:
+    simplification: true
+  previously_selected_schema: double_pinyin_flypy
+  schema_access_time:
+    double_pinyin_flypy: 1701185884
+    easy_en: 1701185781
+    luna_pinyin: 1701185804
+    luna_pinyin_simp: 1701169947
